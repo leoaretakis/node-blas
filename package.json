@@ -1,0 +1,16 @@
+{
+  "name": "node-blas",
+  "version": "0.0.1",
+  "description": "A node.js wrapper for the high-performance BLAS library",
+  "homepage": "https://github.com/leoaretakis/node-blas/",
+  "keywords": ["blas", "math", "linear", "algebra", "HPC"],
+  "main": "./lib/node-blas/index.js",
+  "engines": {
+    "node": ">=0.2.6"
+  },
+  "dependencies": {
+    "ffi": ""
+  },
+  "author": "Leonardo Aretakis <leoaretakis@gmail.com>",
+  "license": "ISC"
+}
